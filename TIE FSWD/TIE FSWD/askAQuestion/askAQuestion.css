@@ -1,0 +1,519 @@
+.a-s-kaquestion-container {
+  min-height: 100vh;
+}
+.a-s-kaquestion-a-s-kaquestion {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.a-s-kaquestion-rectangle1 {
+  top: -5px;
+  left: -36px;
+  width: 1476px;
+  height: 112px;
+  position: absolute;
+  border-color: transparent;
+}
+.a-s-kaquestion-text {
+  top: 13px;
+  left: 143px;
+  color: rgba(0, 0, 0, 1);
+  width: 201px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.a-s-kaquestion-text05 {
+  top: 37px;
+  left: 738px;
+  color: rgba(0, 0, 0, 1);
+  width: 72px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.a-s-kaquestion-text07 {
+  top: 37px;
+  left: 825px;
+  color: rgba(0, 0, 0, 1);
+  width: 125px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.a-s-kaquestion-text09 {
+  top: 37px;
+  left: 999px;
+  color: rgba(0, 0, 0, 1);
+  width: 75px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.a-s-kaquestion-text11 {
+  top: 38px;
+  left: 1103px;
+  color: rgba(0, 0, 0, 1);
+  width: 71px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.a-s-kaquestion-text13 {
+  top: 38px;
+  left: 1189px;
+  color: rgba(0, 0, 0, 1);
+  width: 79px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.a-s-kaquestion-icons8logout262 {
+  top: 32px;
+  left: 1306px;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  border-color: transparent;
+}
+.a-s-kaquestion-text15 {
+  top: 40px;
+  left: 1333px;
+  color: rgba(0, 0, 0, 1);
+  width: 71px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.a-s-kaquestion-line6 {
+  top: 97.00160217285156px;
+  left: 325.4854431152344px;
+  width: 913px;
+  height: 1px;
+  position: absolute;
+}
+.a-s-kaquestion-text17 {
+  top: 350px;
+  left: 76px;
+  color: rgba(0, 0, 0, 1);
+  width: 227px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.a-s-kaquestion-text19 {
+  top: 579px;
+  left: 35px;
+  color: rgba(0, 0, 0, 1);
+  width: 67px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.a-s-kaquestion-text21 {
+  top: 580px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.a-s-kaquestion-text23 {
+  top: 581px;
+  left: 169px;
+  color: rgba(0, 0, 0, 1);
+  width: 74px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.a-s-kaquestion-text25 {
+  top: 581px;
+  left: 246px;
+  color: rgba(0, 0, 0, 1);
+  width: 88px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.a-s-kaquestion-rectangle14 {
+  top: 20px;
+  left: 306px;
+  width: 441px;
+  height: 57px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+}
+.a-s-kaquestion-text27 {
+  top: 35px;
+  left: 356px;
+  color: rgba(149, 127, 127, 1);
+  width: 125px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.a-s-kaquestion-ellipse1 {
+  top: 401px;
+  left: 84px;
+  width: 137px;
+  height: 136px;
+  position: absolute;
+  border-color: transparent;
+}
+.a-s-kaquestion-icons8q963 {
+  top: 406px;
+  left: 109px;
+  width: 94px;
+  height: 131px;
+  position: absolute;
+  border-color: transparent;
+}
+.a-s-kaquestion-icons8q965 {
+  top: 0px;
+  left: 68px;
+  width: 84px;
+  height: 109px;
+  position: absolute;
+  border-color: transparent;
+}
+.a-s-kaquestion-rectangle28 {
+  top: 608px;
+  left: 39px;
+  width: 262px;
+  height: 28px;
+  position: absolute;
+  border-color: transparent;
+}
+.a-s-kaquestion-rectangle30 {
+  top: 608px;
+  left: 39px;
+  width: 18px;
+  height: 28px;
+  position: absolute;
+  border-color: transparent;
+}
+.a-s-kaquestion-text29 {
+  top: 616px;
+  left: 82px;
+  color: rgba(0, 0, 0, 1);
+  width: 161px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.a-s-kaquestion-text31 {
+  top: 138px;
+  left: 353px;
+  color: rgba(0, 0, 0, 1);
+  width: 490px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.a-s-kaquestion-rectangle42 {
+  top: 255px;
+  left: 332px;
+  width: 602px;
+  height: 669px;
+  position: absolute;
+  border-color: transparent;
+}
+.a-s-kaquestion-rectangle43 {
+  top: 333px;
+  left: 351px;
+  width: 561px;
+  height: 57px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+}
+.a-s-kaquestion-text33 {
+  top: 274px;
+  left: 356px;
+  color: rgba(0, 0, 0, 1);
+  width: 135px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.a-s-kaquestion-text34 {
+  font-weight: 700;
+}
+.a-s-kaquestion-text38 {
+  top: 304px;
+  left: 356px;
+  color: rgba(0, 0, 0, 1);
+  width: 95px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.a-s-kaquestion-text40 {
+  top: 443px;
+  left: 351px;
+  color: rgba(0, 0, 0, 1);
+  width: 162px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.a-s-kaquestion-text42 {
+  top: 477px;
+  left: 349px;
+  color: rgba(0, 0, 0, 1);
+  width: 563px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.a-s-kaquestion-rectangle44 {
+  top: 523px;
+  left: 356px;
+  width: 556px;
+  height: 386px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+}
+.a-s-kaquestion-rectangle45 {
+  top: 523px;
+  left: 356px;
+  width: 556px;
+  height: 386px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+}
+.a-s-kaquestion-rectangle46 {
+  top: 523px;
+  left: 356px;
+  width: 556px;
+  height: 386px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+}
+.a-s-kaquestion-button {
+  top: 940px;
+  left: 384px;
+  width: 104px;
+  display: flex;
+  padding: 13px 20px;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default_systemblue-light);
+}
+.a-s-kaquestion-text44 {
+  color: var(--dl-color-labelcolor_dark-primary);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

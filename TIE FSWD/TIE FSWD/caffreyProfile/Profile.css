@@ -1,0 +1,1506 @@
+.caffreyProfile-container {
+  min-height: 100vh;
+}
+.caffreyProfile-caffreyProfile {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.caffreyProfile-rectangle23 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 97px;
+  position: absolute;
+  border-color: transparent;
+}
+.caffreyProfile-icons8q965 {
+  top: 3px;
+  left: 74px;
+  width: 69px;
+  height: 96px;
+  position: absolute;
+  border-color: transparent;
+}
+.caffreyProfile-ellipse9 {
+  top: 215px;
+  left: 360px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  border-color: transparent;
+}
+.caffreyProfile-icons8q966 {
+  top: 215px;
+  left: 376px;
+  width: 69px;
+  height: 96px;
+  position: absolute;
+  border-color: transparent;
+}
+.caffreyProfile-ellipse10 {
+  top: 854px;
+  left: 350px;
+  width: 58px;
+  height: 52px;
+  position: absolute;
+  border-color: transparent;
+}
+.caffreyProfile-icons8q967 {
+  top: 854px;
+  left: 359px;
+  width: 40px;
+  height: 50px;
+  position: absolute;
+  border-color: transparent;
+}
+.caffreyProfile-text {
+  top: 38px;
+  left: 1344px;
+  color: rgba(0, 0, 0, 1);
+  width: 81px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text002 {
+  top: 13px;
+  left: 143px;
+  color: rgba(0, 0, 0, 1);
+  width: 201px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text007 {
+  top: 37px;
+  left: 738px;
+  color: rgba(0, 0, 0, 1);
+  width: 72px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text009 {
+  top: 37px;
+  left: 825px;
+  color: rgba(0, 0, 0, 1);
+  width: 125px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text011 {
+  top: 37px;
+  left: 999px;
+  color: rgba(0, 0, 0, 1);
+  width: 75px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text013 {
+  top: 38px;
+  left: 1103px;
+  color: rgba(0, 0, 0, 1);
+  width: 71px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text015 {
+  top: 38px;
+  left: 1189px;
+  color: rgba(0, 0, 0, 1);
+  width: 79px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-rectangle24 {
+  top: 119px;
+  left: 35px;
+  width: 270px;
+  height: 50px;
+  position: absolute;
+  border-color: transparent;
+}
+.caffreyProfile-text017 {
+  top: 126px;
+  left: 50px;
+  color: rgba(0, 0, 0, 1);
+  width: 240px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-line17 {
+  top: 97px;
+  left: 333px;
+  width: 929px;
+  height: 0px;
+  position: absolute;
+}
+.caffreyProfile-line18 {
+  top: 194px;
+  left: 333px;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+}
+.caffreyProfile-line21 {
+  top: 194px;
+  left: 334.0010681152344px;
+  width: 937px;
+  height: 1px;
+  position: absolute;
+}
+.caffreyProfile-icons8logout263 {
+  top: 32px;
+  left: 1311px;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  border-color: transparent;
+}
+.caffreyProfile-line22 {
+  top: 458px;
+  left: 334px;
+  width: 935px;
+  height: 0px;
+  position: absolute;
+}
+.caffreyProfile-text019 {
+  top: 225px;
+  left: 474px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text021 {
+  top: 253px;
+  left: 520px;
+  color: rgba(0, 0, 0, 1);
+  width: 273px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text026 {
+  top: 279px;
+  left: 537px;
+  color: rgba(0, 0, 0, 1);
+  width: 260px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-rectangle26 {
+  top: 342px;
+  left: 376px;
+  width: 318px;
+  height: 69px;
+  position: absolute;
+  border-color: transparent;
+}
+.caffreyProfile-edit {
+  top: 363px;
+  left: 444px;
+  width: 76px;
+  height: 28px;
+  position: absolute;
+  border-color: transparent;
+}
+.caffreyProfile-text031 {
+  top: 362px;
+  left: 502px;
+  color: rgba(255, 255, 255, 1);
+  width: 97px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-rectangle27 {
+  top: 229px;
+  left: 858px;
+  width: 112px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.caffreyProfile-text033 {
+  top: 232px;
+  left: 871px;
+  color: rgba(255, 255, 255, 1);
+  width: 76px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text035 {
+  top: 259px;
+  left: 848px;
+  color: rgba(15, 195, 252, 1);
+  width: 70px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-star7 {
+  top: 277px;
+  left: 901px;
+  width: 21px;
+  height: 23px;
+  position: absolute;
+}
+.caffreyProfile-text037 {
+  top: 302px;
+  left: 903px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-ellipse11 {
+  top: 273px;
+  left: 1021px;
+  width: 47px;
+  height: 46px;
+  position: absolute;
+  border-color: transparent;
+}
+.caffreyProfile-ellipse12 {
+  top: 273px;
+  left: 1144px;
+  width: 47px;
+  height: 46px;
+  position: absolute;
+  border-color: transparent;
+}
+.caffreyProfile-text039 {
+  top: 289px;
+  left: 1040px;
+  color: rgba(117, 23, 23, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-ellipse13 {
+  top: 728px;
+  left: 1006px;
+  width: 47px;
+  height: 46px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.20000000298023224);
+  border-style: solid;
+  border-width: 1px;
+}
+.caffreyProfile-text040 {
+  top: 744px;
+  left: 1021px;
+  color: rgba(0, 0, 0, 0.5799999833106995);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text042 {
+  top: 286px;
+  left: 1163px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-ellipse14 {
+  top: 728px;
+  left: 1140px;
+  width: 47px;
+  height: 46px;
+  position: absolute;
+  border-color: transparent;
+}
+.caffreyProfile-text043 {
+  top: 741px;
+  left: 1154px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text045 {
+  top: 330px;
+  left: 1006px;
+  color: rgba(0, 0, 0, 0.5799999833106995);
+  width: 77px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text047 {
+  top: 789px;
+  left: 991px;
+  color: rgba(0, 0, 0, 0.5799999833106995);
+  width: 77px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text049 {
+  top: 794px;
+  left: 1124px;
+  color: rgba(0, 0, 0, 0.5799999833106995);
+  width: 77px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text051 {
+  top: 330px;
+  left: 1135px;
+  color: rgba(0, 0, 0, 0.5799999833106995);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-line23 {
+  top: 589px;
+  left: 333px;
+  width: 936px;
+  height: 0px;
+  position: absolute;
+}
+.caffreyProfile-rectangle28 {
+  top: 480px;
+  left: 384px;
+  width: 178px;
+  height: 78px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.5799999833106995);
+  border-style: solid;
+  border-width: 1px;
+}
+.caffreyProfile-rectangle29 {
+  top: 480px;
+  left: 606px;
+  width: 178px;
+  height: 78px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.5799999833106995);
+  border-style: solid;
+  border-width: 1px;
+}
+.caffreyProfile-rectangle30 {
+  top: 480px;
+  left: 828px;
+  width: 178px;
+  height: 78px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.5799999833106995);
+  border-style: solid;
+  border-width: 1px;
+}
+.caffreyProfile-rectangle31 {
+  top: 480px;
+  left: 1050px;
+  width: 178px;
+  height: 78px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.5799999833106995);
+  border-style: solid;
+  border-width: 1px;
+}
+.caffreyProfile-text053 {
+  top: 484px;
+  left: 397px;
+  color: rgba(15, 195, 252, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-star8 {
+  top: 492px;
+  left: 468px;
+  width: 18px;
+  height: 20px;
+  position: absolute;
+}
+.caffreyProfile-text055 {
+  top: 512px;
+  left: 463px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text057 {
+  top: 537px;
+  left: 426px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text059 {
+  top: 481px;
+  left: 621px;
+  color: rgba(15, 195, 252, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-star9 {
+  top: 489px;
+  left: 692px;
+  width: 18px;
+  height: 20px;
+  position: absolute;
+}
+.caffreyProfile-text061 {
+  top: 509px;
+  left: 687px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text063 {
+  top: 534px;
+  left: 655px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text065 {
+  top: 480px;
+  left: 835px;
+  color: rgba(15, 195, 252, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-star10 {
+  top: 488px;
+  left: 915px;
+  width: 18px;
+  height: 20px;
+  position: absolute;
+}
+.caffreyProfile-text067 {
+  top: 508px;
+  left: 910px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text069 {
+  top: 533px;
+  left: 867px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text071 {
+  top: 484px;
+  left: 1055px;
+  color: rgba(15, 195, 252, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-star11 {
+  top: 492px;
+  left: 1131px;
+  width: 18px;
+  height: 20px;
+  position: absolute;
+}
+.caffreyProfile-text073 {
+  top: 512px;
+  left: 1126px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text075 {
+  top: 537px;
+  left: 1075px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-line24 {
+  top: 663px;
+  left: 333px;
+  width: 936px;
+  height: 0px;
+  position: absolute;
+}
+.caffreyProfile-text077 {
+  top: 616px;
+  left: 360px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text079 {
+  top: 613px;
+  left: 517px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-line25 {
+  top: 663px;
+  left: 350px;
+  width: 118px;
+  height: 0px;
+  position: absolute;
+}
+.caffreyProfile-text081 {
+  top: 709px;
+  left: 350px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text082 {
+  top: 784px;
+  left: 350px;
+  color: rgba(0, 0, 0, 0.58);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text083 {
+  top: 870px;
+  left: 447px;
+  color: rgba(0, 0, 0, 0.58);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text084 {
+  top: 870px;
+  left: 522px;
+  color: rgba(0, 0, 0, 0.5799999833106995);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-address {
+  top: 253px;
+  left: 472px;
+  width: 54px;
+  height: 27px;
+  position: absolute;
+  border-color: transparent;
+}
+.caffreyProfile-mail {
+  top: 280px;
+  left: 474px;
+  width: 51px;
+  height: 29px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.caffreyProfile-address1 {
+  top: 253px;
+  left: 472px;
+  width: 54px;
+  height: 27px;
+  position: absolute;
+  border-color: transparent;
+}
+.caffreyProfile-mail1 {
+  top: 280px;
+  left: 474px;
+  width: 51px;
+  height: 29px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.caffreyProfile-thumbs-up {
+  top: 776px;
+  left: 603px;
+  width: 30px;
+  height: 45px;
+  position: absolute;
+  border-color: transparent;
+}
+.caffreyProfile-thumbs-down {
+  top: 776px;
+  left: 643px;
+  width: 30px;
+  height: 45px;
+  position: absolute;
+  border-color: transparent;
+}
+.caffreyProfile-rectangle32 {
+  top: 97px;
+  left: 1272px;
+  width: 329px;
+  height: 650px;
+  position: absolute;
+  border-color: transparent;
+}
+.caffreyProfile-text086 {
+  top: 146px;
+  left: 1315px;
+  color: rgba(0, 0, 0, 1);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Light;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text088 {
+  top: 166px;
+  left: 1318px;
+  color: rgba(0, 0, 0, 1);
+  width: 41px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text089 {
+  top: 257px;
+  left: 1312px;
+  color: rgba(0, 0, 0, 1);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Light;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text091 {
+  top: 374px;
+  left: 1303px;
+  color: rgba(0, 0, 0, 1);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Light;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text093 {
+  top: 277px;
+  left: 1315px;
+  color: rgba(0, 0, 0, 1);
+  width: 41px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text094 {
+  top: 394px;
+  left: 1314px;
+  color: rgba(0, 0, 0, 1);
+  width: 41px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text095 {
+  top: 514px;
+  left: 1288px;
+  color: rgba(0, 0, 0, 1);
+  width: 107px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text097 {
+  top: 545px;
+  left: 1286px;
+  color: rgba(121, 105, 105, 1);
+  width: 154px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text099 {
+  top: 574px;
+  left: 1269px;
+  color: rgba(121, 105, 105, 1);
+  width: 154px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text101 {
+  top: 603px;
+  left: 1263px;
+  color: rgba(121, 105, 105, 1);
+  width: 154px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-rectangle7 {
+  top: 97px;
+  left: 1272px;
+  width: 171px;
+  height: 650px;
+  position: absolute;
+  border-color: transparent;
+}
+.caffreyProfile-text103 {
+  top: 146px;
+  left: 1315px;
+  color: rgba(0, 0, 0, 1);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Light;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text105 {
+  top: 166px;
+  left: 1318px;
+  color: rgba(0, 0, 0, 1);
+  width: 57px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text107 {
+  top: 257px;
+  left: 1312px;
+  color: rgba(0, 0, 0, 1);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Light;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text109 {
+  top: 374px;
+  left: 1303px;
+  color: rgba(0, 0, 0, 1);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Light;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text111 {
+  top: 277px;
+  left: 1315px;
+  color: rgba(0, 0, 0, 1);
+  width: 41px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text112 {
+  top: 394px;
+  left: 1314px;
+  color: rgba(0, 0, 0, 1);
+  width: 41px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text113 {
+  top: 514px;
+  left: 1288px;
+  color: rgba(0, 0, 0, 1);
+  width: 107px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text115 {
+  top: 545px;
+  left: 1286px;
+  color: rgba(121, 105, 105, 1);
+  width: 154px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text117 {
+  top: 574px;
+  left: 1269px;
+  color: rgba(121, 105, 105, 1);
+  width: 154px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-text119 {
+  top: 603px;
+  left: 1263px;
+  color: rgba(121, 105, 105, 1);
+  width: 154px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.caffreyProfile-rectangle21 {
+  top: 149px;
+  left: 1291px;
+  width: 5px;
+  height: 77px;
+  position: absolute;
+  border-color: transparent;
+}
+.caffreyProfile-rectangle22 {
+  top: 262px;
+  left: 1291px;
+  width: 5px;
+  height: 77px;
+  position: absolute;
+  border-color: transparent;
+}
+.caffreyProfile-rectangle231 {
+  top: 376px;
+  left: 1291px;
+  width: 5px;
+  height: 77px;
+  position: absolute;
+  border-color: transparent;
+}
+.caffreyProfile-text121 {
+  top: 129px;
+  left: 351px;
+  color: rgba(0, 0, 0, 1);
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
